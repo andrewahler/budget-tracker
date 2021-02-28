@@ -6,6 +6,8 @@
 A Budget Tracking progressive web application that allows you to add and remove your transactions on or offline.
 
 
+### Packages
+Mongoose, Compression, Express, Logger, Morgan.
 
 ##### Created by
 Andrew Ahler
